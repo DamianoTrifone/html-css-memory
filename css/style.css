@@ -48,7 +48,7 @@ body{
 .seconda-carta:hover{
     background-image: url(img/noun_Bicycle_3134821.png);
     background-color: white;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
 }
 
@@ -65,7 +65,7 @@ body{
 .terza-carta:hover{
     background-image: url(img/noun_Cruise_Ship_3134824.png);
     background-color: white;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
 }
 
@@ -79,6 +79,13 @@ body{
     border-radius: 4%;
 }
 
+.quarta-carta:hover{
+    background-image: url(img/noun_Submarine_3134738.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
+}
+
 .quinta-carta{
     background-image: url(img/pattern.png);
     background-position: center;
@@ -87,6 +94,13 @@ body{
     width: 150px;
     height: 200px;
     border-radius: 4%;
+}
+
+.quinta-carta:hover{
+    background-image: url(img/noun_Tractor_3134797.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
 }
 
 .sesta-carta{
@@ -99,6 +113,13 @@ body{
     border-radius: 4%;
 }
 
+.sesta-carta:hover{
+    background-image: url(img/noun_Tram_3134750.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
+}
+
 .settima-carta{
     background-image: url(img/pattern.png);
     background-position: center;
@@ -107,6 +128,13 @@ body{
     width: 150px;
     height: 200px;
     border-radius: 4%;
+}
+
+.settima-carta:hover{
+    background-image: url(img/noun_Bicycle_3134821.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
 }
 
 .ottava-carta{
@@ -119,6 +147,13 @@ body{
     border-radius: 4%;
 }
 
+.ottava-carta:hover{
+    background-image: url(img/noun_air_balloon_3134741.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
+}
+
 .nona-carta{
     background-image: url(img/pattern.png);
     background-position: center;
@@ -127,6 +162,13 @@ body{
     width: 150px;
     height: 200px;
     border-radius: 4%;
+}
+
+.nona-carta:hover{
+    background-image: url(img/noun_Submarine_3134738.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
 }
 
 .decima-carta{
@@ -139,6 +181,13 @@ body{
     border-radius: 4%;
 }
 
+.decima-carta:hover{
+    background-image: url(img/noun_Bicycle_3134821.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
+}
+
 .undicesima-carta{
     background-image: url(img/pattern.png);
     background-position: center;
@@ -149,6 +198,13 @@ body{
     border-radius: 4%;
 }
 
+.undicesima-carta:hover{
+    background-image: url(img/noun_Tram_3134750.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
+}
+
 .dodicesima-carta{
     background-image: url(img/pattern.png);
     background-position: center;
@@ -157,4 +213,11 @@ body{
     width: 150px;
     height: 200px;
     border-radius: 4%;
+}
+
+.dodicesima-carta:hover{
+    background-image: url(img/noun_air_balloon_3134741.png);
+    background-color: white;
+    background-size: contain;
+    background-position: center;
 }
