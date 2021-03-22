@@ -2,11 +2,7 @@ body{
     background-color: #ADD8E6;
 }
 
-.container{
-    position: relative;
-}
-
-#intestazione{
+.intestazione{
     text-align: center;
     margin-top: 20px;
     text-transform: uppercase;
@@ -15,14 +11,134 @@ body{
     font-size: 80px;
 }
 
-#prima-carta{
+.prima-carta{
     background-image: url(img/pattern.png);
     background-position: center;
-    background-size: cover;
-    width: 200px;
-    height: 280px;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
     border-radius: 4%;
-    margin-top: 10px;
-    position: absolute;
-    left: 80px;
+    /* margin-top: 10px;
+    margin-left: 100px;
+    position: relative;
+    left: 80px; */
+}
+
+.prima-carta:hover{
+        background-image: url('sdsd');
+}
+
+.seconda-carta{
+        background-image: url(img/pattern.png);
+        background-position: center;
+        background-size: contain;
+        display: inline-block;
+        width: 150px;
+        height: 200px;
+        border-radius: 4%;
+        /* position: absolute;
+        left: 188px;
+        top: 400px; */
+}
+
+.terza-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+
+}
+
+.quarta-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.quinta-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.sesta-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.settima-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.ottava-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.nona-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.decima-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.undicesima-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
+}
+
+.dodicesima-carta{
+    background-image: url(img/pattern.png);
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    border-radius: 4%;
 }
