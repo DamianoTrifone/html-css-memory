@@ -150,7 +150,7 @@ body{
 .ottava-carta:hover{
     background-image: url(img/noun_air_balloon_3134741.png);
     background-color: white;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
 }
 
@@ -167,7 +167,7 @@ body{
 .nona-carta:hover{
     background-image: url(img/noun_Submarine_3134738.png);
     background-color: white;
-    background-size: contain;
+    background-size:contain;
     background-position: center;
 }
 
@@ -218,6 +218,12 @@ body{
 .dodicesima-carta:hover{
     background-image: url(img/noun_air_balloon_3134741.png);
     background-color: white;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
+}
+
+#footer{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Nerko One', cursive;
 }
