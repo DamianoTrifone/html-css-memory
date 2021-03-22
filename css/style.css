@@ -26,7 +26,10 @@ body{
 }
 
 .prima-carta:hover{
-        background-image: url('sdsd');
+        background-image: url(img/noun_air_balloon_3134741.png);
+        background-color: white;
+        background-size: cover;
+        background-position: center;
 }
 
 .seconda-carta{
@@ -42,6 +45,13 @@ body{
         top: 400px; */
 }
 
+.seconda-carta:hover{
+    background-image: url(img/noun_Bicycle_3134821.png);
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+}
+
 .terza-carta{
     background-image: url(img/pattern.png);
     background-position: center;
@@ -50,7 +60,13 @@ body{
     width: 150px;
     height: 200px;
     border-radius: 4%;
+}
 
+.terza-carta:hover{
+    background-image: url(img/noun_Cruise_Ship_3134824.png);
+    background-color: white;
+    background-size: cover;
+    background-position: center;
 }
 
 .quarta-carta{
